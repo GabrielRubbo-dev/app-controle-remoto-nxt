@@ -1,7 +1,7 @@
 
 #  **Controle Remoto NXT**
 
-> APP para **comando remoto de hardware LEGO Mindstorms** via conexão sem fio.
+> APP para **comando remoto do robô LEGO Mindstorms** via conexão Bluetooth.
 
 ---
 
