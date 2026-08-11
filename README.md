@@ -1,18 +1,17 @@
-Aqui está o conteúdo do seu aplicativo formatado conforme o modelo solicitado:
 
 #  **Controle Remoto NXT**
 
-> Aplicativo móvel para **comando remoto de hardware LEGO Mindstorms** via conexão sem fio.
+> APP para **comando remoto de hardware LEGO Mindstorms** via conexão sem fio.
 
 ---
 
 ##  Objetivo
-O aplicativo tem como objetivo **controlar os motores de um robô LEGO Mindstorms NXT** utilizando a tecnologia Bluetooth. Ele permite a pilotagem do robô em tempo real, acionando os motores especificamente enquanto os botões da interface são pressionados.
+O aplicativo tem como objetivo **controlar os motores de um robô LEGO Mindstorms NXT** utilizando o Bluetooth. Ele permite a pilotagem do robô em tempo real, acionando os motores especificamente enquanto os botões da interface são pressionados.
 
 ##  Funcionalidades
 - **Conexão Bluetooth:** Interface para pareamento e comunicação com o bloco inteligente NXT.
 - **Controle Direcional:** Botões para movimentar o robô para frente, para trás e para os lados.
-- **Pilotagem em Tempo Real:** Acionamento dinâmico dos motores sincronizado com a interação do usuário na tela.
+- **Pilotagem em Tempo Real:** Acionamento dos motores sincronizado com a interação do usuário na tela.
 
 ##  Tecnologias Utilizadas
 - **MIT App Inventor** (Desenvolvimento da lógica por blocos e interface visual).
