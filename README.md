@@ -1,2 +1,28 @@
-# app-controle-remoto-nxt
-Aplicativo para controle de robô LEGO Mindstorms NXT no MIT App Inventor.
+Aqui está o conteúdo do seu aplicativo formatado conforme o modelo solicitado:
+
+#  **Controle Remoto NXT**
+
+> Aplicativo móvel para **comando remoto de hardware LEGO Mindstorms** via conexão sem fio.
+
+---
+
+##  Objetivo
+O aplicativo tem como objetivo **controlar os motores de um robô LEGO Mindstorms NXT** utilizando a tecnologia Bluetooth. Ele permite a pilotagem do robô em tempo real, acionando os motores especificamente enquanto os botões da interface são pressionados.
+
+##  Funcionalidades
+- **Conexão Bluetooth:** Interface para pareamento e comunicação com o bloco inteligente NXT.
+- **Controle Direcional:** Botões para movimentar o robô para frente, para trás e para os lados.
+- **Pilotagem em Tempo Real:** Acionamento dinâmico dos motores sincronizado com a interação do usuário na tela.
+
+##  Tecnologias Utilizadas
+- **MIT App Inventor** (Desenvolvimento da lógica por blocos e interface visual).
+- **GitHub** (Hospedagem do código-fonte, controle de versão e portfólio).
+
+##  Como testar este aplicativo?
+1. Baixe o arquivo **.aia** disponível neste repositório.
+2. Acesse o [MIT App Inventor](http://ai2.appinventor.mit.edu/).
+3. Clique em **Projetos > Importar projeto (.aia) do meu computador**.
+4. Selecione o arquivo baixado para visualizar e testar o código!.
+
+---
+*Projeto desenvolvido no curso de Desenvolvedor Mobile Android - Jovens Aprendizes.*
