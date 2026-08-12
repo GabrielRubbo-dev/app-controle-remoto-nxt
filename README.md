@@ -1,12 +1,12 @@
 
 # 📱 Controle Remoto NXT
 
-> App para controlar o carrinho/robô LEGO Mindstorms NXT, via Bluetooth.
+> App para controlar o robô LEGO Mindstorms NXT, via Bluetooth.
 
 ---
 
 ## 🎯 Objetivo
-Conectar no LEGO Mindstorms NXT e caso seja montado o carrinho/robô controlá-lo. 
+Conectar no LEGO Mindstorms NXT e caso seja montado o robô controlá-lo. 
 
 ## ✨ Funcionalidades
 - Botão de conexão de desconexão.
