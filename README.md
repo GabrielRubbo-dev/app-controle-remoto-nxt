@@ -9,7 +9,7 @@
 Conectar no LEGO Mindstorms NXT e caso seja montado o robô controlá-lo. 
 
 ## ✨ Funcionalidades
-- Botão de conexão de desconexão.
+- Botão de conexão/desconexão.
 - Botão para ir para frente.
 - Botão para ir para trás.
 - Botão para ir virar a esquerda.
